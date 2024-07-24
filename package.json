@@ -1,6 +1,6 @@
 {
   "name": "npm_release",
-  "version": "1.7.1",
+  "version": "1.7.1-SNAPSHOT",
   "description": "",
   "main": "index.js",
   "scripts": {
